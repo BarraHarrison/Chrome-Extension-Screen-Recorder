@@ -1,0 +1,3 @@
+
+Key Parties of the Chrome Extension -->
+popup.js <-----> tab (content script) <-----> background.js script
